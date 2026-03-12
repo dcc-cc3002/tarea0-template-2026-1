@@ -1,6 +1,4 @@
-# Semester Project CC3002 | Template
-
-Learn more about READMEs at https://www.makeareadme.com/.
+# Malatro 2026 | CC3002
 
 ## Warning conocido al correr tests
 
@@ -14,7 +12,3 @@ WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.Laz
 pueden ignorarlo.
 
 Es un warning conocido de la combinación `Scala 3` + `Java 25` y no significa que sus tests hayan fallado. Si el proceso termina con `exit code 0` o `sbt test` reporta que los tests pasaron, entonces la configuración está bien.
-
-----
-
-Instrucciones para equipo docente en [DELETE_ME](./DELETE_ME/GH-CLASSROOM-QUICKSTART.md)
