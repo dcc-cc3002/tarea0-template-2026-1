@@ -82,4 +82,4 @@ Nombre: Perico Los Palotes (lo cambian por su nombre)
 Pull Request: https://github.com/... (completan los "..." con el resto del link)
 ```
 
-Esta tarea es **obligatoria** y corresponde al **10% de la nota de Tareas**.
+Esta tarea es **obligatoria** y corresponde al **5% de la nota de Tareas**.
